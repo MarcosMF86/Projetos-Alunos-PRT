@@ -1,4 +1,4 @@
-# Projetos-Alunos-PRT
+# Projetos-Alunos-UTAD
 Códigos e datasets para classificação e segmentação de imagens de fundo de olho e OCT, para detecção de glaucoma e retinopatia diabética
 
 **Datasets para classificação e segmentação de glaucoma:**
