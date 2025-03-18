@@ -25,12 +25,21 @@ Papers:
 - Dataset and evaluation algorithm design for goals challenge
 
 **Deteção de edema macular diabético em tomografias de coerência óptica:**
-()
+
+(**OCTDL**) https://drive.google.com/file/d/1pjGjlEOyeT9ZO9i1vY1Yz_uwTwMs0ktv/view?usp=drive_link
+
 Papers:
 - Automated segmentation of macular edema in OCT using deep neural networks
-- 
+- Automated segmentation of macular edema for the diagnosis of ocular disease using deep learning method
+- Automatic Segmentation of Macular Edema in Retinal OCT Images Using Improved U-Net++
+  
 **Segmentação de Lesões associadas à retinopatia diabética:**
 (**Dataset IDRiD**) https://drive.google.com/file/d/19YZFiggLItI9Nxtw_cp12WaGqe-7t8X0/view?usp=drive_link
+
+Papers:
+- Diabetic retinopathy fundus image classification and lesions localization system using deep learning
+- relation transformer network for diabetic retinopathy multi-lesion segmentation
+- Improved Support Vector Machine based on CNN-SVD for vision-threatening diabetic retinopathy detection and classification
 
 **Ebook para auxiliar no estudo de Deep Learning:** 
 https://www.deeplearningbook.com.br/
