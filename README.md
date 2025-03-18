@@ -1,7 +1,7 @@
 # Projetos-Alunos-UTAD
 Códigos e datasets para classificação e segmentação de imagens de fundo de olho e OCT, para detecção de glaucoma e retinopatia diabética
 
-**Classificação e segmentação de glaucoma:**
+**Segmentação do nervo óptico em fotografias da retina para deteção de glaucoma:**
 (**Dataset REFUGE**) https://drive.google.com/file/d/15qvD5fpr6d7_Bsl_xE7luqkAY47YMtcy/view?usp=drive_link
 
 Papers: 
@@ -23,6 +23,14 @@ Papers:
 - Joint retina segmentation and classification for early glaucoma diagnosis
 - Retinal Layer Segmentation in OCT Images With Boundary Regression and Feature Polarization
 - Dataset and evaluation algorithm design for goals challenge
-  
+
+**Deteção de edema macular diabético em tomografias de coerência óptica:**
+()
+Papers:
+- Automated segmentation of macular edema in OCT using deep neural networks
+- 
+**Segmentação de Lesões associadas à retinopatia diabética:**
+(**Dataset IDRiD**) https://drive.google.com/file/d/19YZFiggLItI9Nxtw_cp12WaGqe-7t8X0/view?usp=drive_link
+
 **Ebook para auxiliar no estudo de Deep Learning:** 
 https://www.deeplearningbook.com.br/
