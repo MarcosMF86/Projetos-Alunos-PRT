@@ -10,7 +10,7 @@ Papers:
 - REFUGE Challenge Submission: Using Dense U-Nets to Detect Glaucoma and Segment Optic Disc and Cup
 - Glaucoma identification using convolutional neural networks ensemble for optic disc and cup segmentation
   
-(**Dataset GAMMA**) https://drive.google.com/file/d/15ok40wtftNpDRV1GAgGIDD-Gdku3OCgs/view?usp=drive_link
+(**Dataset GAMMA**) https://drive.google.com/file/d/1W0qsd3-b382s8nhWk1o1TOAOEmt3raJd/view?usp=drive_link
 
 Papers:
 - Gamma challenge: glaucoma grading from multi-modality images
